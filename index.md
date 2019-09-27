@@ -6,5 +6,5 @@ Progress Journal - Dost Karaahmetli
 Week1
 --------
 
-[RMarkdown Homework](https://github.com/pjournal/mef03-karaahmetlid/blob/master/RMarkdown-Homework---W1.html)
+[RMarkdown Homework](https://https://pjournal.github.io/mef03-karaahmetlid/RMarkdown-Homework---W1.html)
 
