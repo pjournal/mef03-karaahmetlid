@@ -1,3 +1,7 @@
+theme: jekyll-theme-cayman
+title: Dost Karaahmetli Progress Journal
+description: BDA503 Fall 2019 - MEF Uni
+----
 
 Progress Journal - Dost Karaahmetli
 -------------------------------------
