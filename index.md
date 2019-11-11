@@ -9,3 +9,9 @@ Week1
 
 [RMarkdown Homework](https://pjournal.github.io/mef03-karaahmetlid/RMarkdown-Homework---W1.html)
 
+
+Week4
+--------
+
+[BKM Assignment](https://pjournal.github.io/mef03-karaahmetlid/BKM-Assignmment.html)
+
