@@ -18,4 +18,4 @@ Week4
 Week6
 --------
 
-[**Vamos Rafa!!!**](https://pjournal.github.io/mef03-karaahmetlid/BKM-Assignmment.html)
+[**Vamos Rafa!!!**](https://pjournal.github.io/mef03-karaahmetlid/ATP2017.html)
