@@ -15,3 +15,7 @@ Week4
 
 [BKM Assignment](https://pjournal.github.io/mef03-karaahmetlid/BKM-Assignmment.html)
 
+Week6
+--------
+
+[**Vamos Rafa!!!**](https://pjournal.github.io/mef03-karaahmetlid/BKM-Assignmment.html)
