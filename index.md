@@ -3,6 +3,7 @@
 Progress Journal - Dost Karaahmetli
 -------------------------------------
 
+You can access [spo-R-ify Group Progress Journal](https://pjournal.github.io/mef03g-spo-R-ify/) which I've contributed. 
 
 Week1
 --------
